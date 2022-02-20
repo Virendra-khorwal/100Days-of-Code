@@ -1,1 +1,2 @@
 # 100Days-of-Code
+This Repo Contains my 100 days CP problems with my solution and how I approach to the problem. Every day I create a new folder with day number contains code problem link and what I learnt that day.
